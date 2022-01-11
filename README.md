@@ -11,4 +11,8 @@ Pattern Shell script that will create a repeated pattern to a file based on inpu
 
 ## Roadmap
 I will make it more flexible, useful and dynamic with bunch of cool features, but i am a linux noob and i am learning so this *might* take sometime
-  
+
+- [x] Create basic functional script
+- [ ] Reserve symbols and flags
+- [ ] Create a manual
+- [ ] Idk at the moment, but will make it cooler and as perfect as i can!
